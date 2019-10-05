@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/profile.php?id=100015417279943&ref=bookmarks
-twitter: https://twitter.com/F_Doop
+facebook: profile.php?id=100015417279943&ref=bookmarks
+twitter: F_Doop
 # google: mygoogle
-instagram: myinstagram
+instagram: the_fdoop/
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/TheDoop
+github: TheDoop
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
