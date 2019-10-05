@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -37,7 +37,7 @@ disqus:
 facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -47,15 +47,15 @@ github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-# reddit: username
-medium: medium
+reddit: username
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: personal@ibrahimyondemli.com.tr
 
 authors:
     johndoe:
-        name: John Doe
+        name: İbrahim Yöndemli
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
@@ -96,7 +96,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
