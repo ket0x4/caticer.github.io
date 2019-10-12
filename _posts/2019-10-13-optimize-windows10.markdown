@@ -42,4 +42,3 @@ description: Install Windows on VDH (Virtual Disk) And Add Windows boot manager
 1- open msconfig (winkey+R type msconfig and enter)
 2- enter Boot tab
 3- Selecet your main OS and click "Set Default"
----
