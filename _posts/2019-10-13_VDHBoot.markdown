@@ -1,5 +1,5 @@
 ---
-title: "Install/Boot Windows From VirtualDisk(VDH)"
+title: "Install(And Boot) Windows From VirtualDisk(VDH)"
 layout: post
 date: 2019-10-13 00:57
 image: /assets/images/windowsVDH.jpg
