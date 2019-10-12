@@ -1,7 +1,7 @@
 ---
-title: "Markdown Common Elements"
+title: "İlk Yazı"
 layout: post
-date: 2016-02-24 22:44
+date: 2019-10-13 00:57
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,8 +9,8 @@ tag:
 - elements
 star: true
 category: blog
-author: johndoe
-description: Markdown summary with different options
+author: İbragim
+description: Test amaçlı ilk yazı
 ---
 
 ## Basic formatting
