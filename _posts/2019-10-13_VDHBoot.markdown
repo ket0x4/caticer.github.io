@@ -10,7 +10,7 @@ tag:
 - Virtualization
 star: true
 category: blog
-author: İbragim
+author: İbrahim
 description: Install Windows on VDH (Virtual Disk) And Add Windows boot manager
 ---
 
