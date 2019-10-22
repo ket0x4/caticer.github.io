@@ -26,11 +26,11 @@ description: How to use Gnu/Linux distro under android with chroot or proot
 https://github.com/TheDoop/Chmount (use Magisk 4 Systemless or not ¯\_(ツ)_/¯ )
 
 2. Download Distro RootFS:
-Debian: Don't be lazy Generate yourself (I will release rootfs soon)
-Arch: Arm64 [Download](http://os.archlinuxarm.org/os/ArchLinuxARM-aarch64-latest.tar.gz) (Arm64. you can find ARM version on the web)
+- Debian: Don't be lazy Generate yourself (I will release rootfs soon)
+- Arch: Arm64 [Download](http://os.archlinuxarm.org/os/ArchLinuxARM-aarch64-latest.tar.gz) (Arm64. you can find ARM version on the web)
 
 3. Extract Rootfs and copy phone ("system/media/distorname" recommended), (example copy command: "adb root && adb push /debian /system/media/debian")
-    Never ever never Extract Rootfs under NT(windows)FS systems. beacuse NTFS does not support symlinks!
+Never ever never Extract Rootfs under NT(windows)FS systems. beacuse NTFS does not support symlinks!
 
 4. Open your favorite Terminal emulator and:
     su [ENTER]
