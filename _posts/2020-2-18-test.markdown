@@ -40,7 +40,7 @@ description: How to use GUI Apps on WLS
 ![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/debinstalling.png "Debian")
 2. Follow on screen steps
 ![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/debuser.png "Debian")
-3. Type `sudo apt update && sudo apt upgrade -y` and eter
+3. Type `sudo apt update && sudo apt upgrade -y` and enter
 ![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/sudaptup.png "Debian")
 4. Install DE
     - `sudo apt install xfce4 -y` and enter
