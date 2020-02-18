@@ -2,7 +2,7 @@
 title: "How to use GUI Apps on WSL"
 layout: post
 date: 2020-2-18 03:56
-image: assets/images/wsl.png
+image: https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/wsl.png
 headerImage: true
 tag:
 - wsl
