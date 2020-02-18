@@ -2,7 +2,7 @@
 title: "How to use GUI Apps on WLS"
 layout: post
 date: 2020-2-18 03:56
-image: /assets/images/wlsgui/wls.png
+image: assets\images\blog\wlsguı/wls.png
 headerImage: true
 tag:
 - wls
@@ -72,3 +72,5 @@ pause
 2. Save file WLSGUI.bat
 3. Put config.xlaunch and WLSGUI.bat in same directory
 4. Run GUI.bat
+# Here my themed Xfce4 Desktop
+![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/wls.png "Debian")
