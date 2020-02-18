@@ -44,7 +44,7 @@ description: How to use GUI Apps on WLS
 ![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/sudaptup.png "Debian")
 4. Install DE
     - `sudo apt install xfce4 -y` and enter
-- ![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/xfce4setup.png "Debian")
+- ![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/xfce4setup.PNG "Debian")
 
 ### Install Xserver
 1. Download and install [VcXsvr here](https://sourceforge.net/projects/vcxsrv/)
@@ -59,8 +59,7 @@ description: How to use GUI Apps on WLS
 1. Type `export DISPLAY=:0` and enter
 2. Type `startxfce4` and enter
 3. Done! check your Xserver window!
-![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/xfce4.png "Debian")
-
+![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/xfce4.PNG "Debian")
 
 # Make a batch script for easy launch
 1. Open notepad and paste: 
