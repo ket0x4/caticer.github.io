@@ -28,9 +28,9 @@ description: How to use GUI Apps on WLS
 
 # Install distribution from microsoft store
 
-    - [Ubuntu 18.04 LTS](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q)
-    - [Debian](https://www.microsoft.com/store/apps/9MSVKQC78PK6)
-    - [You can find more disto here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+- [Ubuntu 18.04 LTS](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q)
+- [Debian](https://www.microsoft.com/store/apps/9MSVKQC78PK6)
+- [You can find more disto here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 *I'm gonna install debian*
 # Install desktop environment and GUI
@@ -38,8 +38,9 @@ description: How to use GUI Apps on WLS
 ## Install Desktop environment
 1. Open App
 2. Follow on screen steps
-3. Type `sudo apt update && sudo apt upgrade` and eter
+3. Type `sudo apt update && sudo apt upgrade -y` and eter
 4. Install DE *Shhh.. don't try gnome*
     - `sudo apt install xfce4-desktop -y` and enter
 
+## Install Xserver
 
