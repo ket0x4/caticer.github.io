@@ -25,9 +25,15 @@ description: How to use GUI Apps on WLS
 1. Open Powershell and paste command enter
     - `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 2. Reboot your device
-3. Install distribution from microsoft store
 
-    - [Ubuntu 18.04 LTS](https://www.microsoft.com/store/apps/9pjn388hp8c9)
+# Install distribution from microsoft store
+
+    - [Ubuntu 18.04 LTS](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q)
     - [Debian](https://www.microsoft.com/store/apps/9MSVKQC78PK6)
     - [You can find more disto here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+    
+* I'm gonna install debian*
+# Install desktop environment and GUI
 
+## Install Desktop environment
+1. Open App
