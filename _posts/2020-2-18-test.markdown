@@ -57,9 +57,9 @@ description: How to use GUI Apps on WLS
 2. Type `startxfce4` and enter
 3. Done! check your Xserver window!
 
-# Make a batch script for easy laucnh
-1. Open notepad and copy: 
-```@echo off
+# Make a batch script for easy launch
+1. Open notepad and paste: 
+- ```@echo off
 title debian
 config.xlaunch
 bash -c "export DISPLAY=:0 && startxfce4"
