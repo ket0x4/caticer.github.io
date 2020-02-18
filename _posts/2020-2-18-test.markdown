@@ -3,7 +3,7 @@ title: "How to use GUI Apps on WLS"
 layout: post
 date: 2020-2-18 03:56
 image: /assets/images/wls.jpg
-headerImage: false
+headerImage: true
 tag:
 - wls
 - linux
@@ -70,6 +70,7 @@ config.xlaunch
 bash -c "export DISPLAY=:0 && startxfce4"
 pause
 ```
+
 2. Save file WLSGUI.bat
 3. Put config.xlaunch and WLSGUI.bat in same directory
 4. Run GUI.bat
