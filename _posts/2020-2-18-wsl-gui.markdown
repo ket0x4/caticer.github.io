@@ -1,19 +1,20 @@
 ---
-title: "How to use GUI Apps on WLS"
+title: "How to use GUI Apps on WSL"
 layout: post
 date: 2020-2-18 03:56
 image: assets/images/blog/wlsguı/wls.png
 headerImage: true
 tag:
-- wls
+- wsl
 - linux
 - windows
 - subsystem
 - gnu
+- debian
 star: true
 category: blog
 author: İbrahim
-description: How to use GUI Apps on WLS
+description: How to use GUI Apps on WSL
 ---
 
 ## Requirements:
@@ -27,7 +28,7 @@ description: How to use GUI Apps on WLS
 2. Reboot your device
 
 ### Install distribution from microsoft store
-![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/debianwls.png "Debian")
+![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgui/debianwls.png "Debian")
 - [Ubuntu 18.04 LTS](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q)
 - [Debian](https://www.microsoft.com/store/apps/9MSVKQC78PK6)
 - [You can find more disto here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
@@ -38,14 +39,14 @@ description: How to use GUI Apps on WLS
 
 ### Install Desktop environment
 1. Open 
-![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/debinstalling.png "Debian")
+![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wslgui/debinstalling.png "Debian")
 2. Follow on screen steps
-![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/debuser.png "Debian")
+![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wslgui/debuser.png "Debian")
 3. Type `sudo apt update && sudo apt upgrade -y` and enter
-![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/sudaptup.png "Debian")
+![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wslgui/sudaptup.png "Debian")
 4. Install DE
     - `sudo apt install xfce4 -y` and enter
-- ![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/xfce4setup.PNG "Debian")
+- ![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wslgui/xfce4setup.PNG "Debian")
 
 ### Install Xserver
 1. Download and install [VcXsvr here](https://sourceforge.net/projects/vcxsrv/)
@@ -55,13 +56,13 @@ description: How to use GUI Apps on WLS
 5. Click next again
 6. you can save settings to easily open it later
 7. And done. You have something like this:
-![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/xserver.png "Debian")
+![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wslgui/xserver.png "Debian")
 
 ### Connect Susbsystem Xserver
 1. Type `export DISPLAY=:0` and enter
 2. Type `startxfce4` and enter
 3. Done! check your Xserver window!
-![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/xfce4.PNG "Debian")
+![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wslgui/xfce4.PNG "Debian")
 
 # Make a batch script for easy launch
 1. Open notepad and paste:
@@ -78,4 +79,4 @@ pause
 4. Run GUI.bat
 
 # Here my themed Xfce4 Desktop
-![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgu%C4%B1/wls.png "Debian")
+![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wslgui/wls.png "Debian")
