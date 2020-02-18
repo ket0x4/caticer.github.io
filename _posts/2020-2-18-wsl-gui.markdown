@@ -2,7 +2,7 @@
 title: "How to use GUI Apps on WSL"
 layout: post
 date: 2020-2-18 03:56
-image: assets/images/blog/wlsguı/wls.png
+image: assets/images/wsl.png
 headerImage: true
 tag:
 - wsl
@@ -28,7 +28,7 @@ description: How to use GUI Apps on WSL
 2. Reboot your device
 
 ### Install distribution from microsoft store
-![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wlsgui/debianwls.png "Debian")
+![alt text](https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/wslgui/debianwls.png "Debian")
 - [Ubuntu 18.04 LTS](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q)
 - [Debian](https://www.microsoft.com/store/apps/9MSVKQC78PK6)
 - [You can find more disto here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
