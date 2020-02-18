@@ -21,21 +21,21 @@ description: How to use GUI Apps on WLS
 * Brain
 * Little time
 
-# Enable Windows subststem for Linux
+### Enable Windows subststem for Linux
 1. Open Powershell and paste command enter
     - `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 2. Reboot your device
 
-# Install distribution from microsoft store
+### Install distribution from microsoft store
 
 - [Ubuntu 18.04 LTS](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q)
 - [Debian](https://www.microsoft.com/store/apps/9MSVKQC78PK6)
 - [You can find more disto here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 *I'm gonna install debian*
-# Install desktop environment and GUI
+## Install desktop environment and GUI
 
-## Install Desktop environment
+### Install Desktop environment
 1. Open App
 2. Follow on screen steps
 3. Type `sudo apt update && sudo apt upgrade -y` and eter
@@ -43,7 +43,7 @@ description: How to use GUI Apps on WLS
 *Shhh.. don't try gnome*
     - `sudo apt install xfce4-desktop -y` and enter
 
-## Install Xserver
+### Install Xserver
 1. Download and install [VcXsvr here](https://sourceforge.net/projects/vcxsrv/)
 2. Run Xlaunch
 3. Select "One large winow"
@@ -52,7 +52,7 @@ description: How to use GUI Apps on WLS
 6. you can save settings to easily open it later
 7. And done. You have something like this: "instert picture here"
 
-## Connect Susbsystem Xserver
+### Connect Susbsystem Xserver
 1. Type `export DISPLAY=:0` and enter
 2. Type `startxfce4` and enter
 
