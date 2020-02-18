@@ -67,7 +67,8 @@ description: How to use GUI Apps on WSL
 # Make a batch script for easy launch
 1. Open notepad and paste:
 
-```@echo off
+```
+@echo off
 title debian
 config.xlaunch
 bash -c "export DISPLAY=:0 && startxfce4"
