@@ -2,7 +2,7 @@
 title: "How to use GUI Apps on WLS"
 layout: post
 date: 2020-2-18 03:56
-image: /assets/images/finnal.jpg
+image: /assets/images/finnal.png
 headerImage: true
 tag:
 - wls
