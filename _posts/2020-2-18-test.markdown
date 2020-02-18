@@ -33,7 +33,7 @@ description: How to use GUI Apps on WLS
 - [You can find more disto here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 *I'm gonna install debian*
-## Install desktop environment and GUI
+# Install desktop environment and GUI
 
 ### Install Desktop environment
 1. Open App
@@ -55,4 +55,16 @@ description: How to use GUI Apps on WLS
 ### Connect Susbsystem Xserver
 1. Type `export DISPLAY=:0` and enter
 2. Type `startxfce4` and enter
+3. Done! check your Xserver window!
 
+# Make a batch script for easy laucnh
+1. Open notepad and copy: 
+```@echo off
+title debian
+config.xlaunch
+bash -c "export DISPLAY=:0 && startxfce4"
+pause
+```
+2. Save file WLSGUI.bat
+3. Put config.xlaunch and WLSGUI.bat in same directory
+4. Run GUI.bat
