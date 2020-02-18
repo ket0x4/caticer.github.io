@@ -22,7 +22,7 @@ description: How to use GUI Apps on WSL
 * Brain
 * Little time
 
-### Enable Windows subststem for Linux
+### Enable Windows substytem for Linux
 1. Open Powershell[Admin] and paste command enter
     - `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 2. Reboot your device
