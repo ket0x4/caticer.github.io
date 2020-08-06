@@ -2,8 +2,8 @@
 title: "How to install ADB & Fastboot Windows 10"
 layout: post
 date: 2020-8-7 02:46
-image: https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/
-headerImage: false
+image: https://raw.githubusercontent.com/TheDoop/thedoop.github.io/master/assets/images/blog/adbfastbootwin10/platformtools8.png
+headerImage: true
 tag:
 - fastboot
 - adb
