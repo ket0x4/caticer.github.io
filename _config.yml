@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://ibrahimyondemli.com.tr
+url: https://caticer.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,15 +34,15 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: profile.php?id=100015417279943&ref=bookmarks
+#facebook: profile.php?id=100015417279943&ref=bookmarks
 twitter: F_Doop
 # google: mygoogle
-instagram: the_fdoop/
+#instagram: the_fdoop/
 # pinterest: mypinterest
 # linkedin: mylinkedin
 youtube: https://www.youtube.com/channel/UC64jrLn9GhEMpqeM_7qIaIA
 # spotify: myspotify
-github: TheDoop
+github: Caticer
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,15 +51,15 @@ reddit: TheGlister
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: personal@ibrahimyondemli.com.tr
+email: ibrahim-y@outlook.com
 
 authors:
-    fdoop:
+    caticer:
         name: İbrahim Yöndemli
-        bio: A Man who travels the world eating noodles
+        bio: Hmm
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: F_Doop
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -71,7 +71,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
